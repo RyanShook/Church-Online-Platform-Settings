@@ -1,1 +1,1 @@
-Settings for Church Online Platform used by Woodlands Church - live.wc.org
+Settings for Church Online Platform used by Woodlands Church - http://live.wc.org
